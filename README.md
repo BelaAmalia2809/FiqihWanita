@@ -1,9 +1,9 @@
-## *__FiqihWanitar__*
+## *__FiqihWanita__*
 -------------------------------------------------------
 ###### aplikasi ini dibuat untuk membahas fiqih wanita yang berisi larangan, kewajiban, dan kisah inspiratif.
 -------------------------------------------------------
 
-Screenshot :
+
 ![ss1](https://cloud.githubusercontent.com/assets/22131343/24575597/c8a83aee-16d4-11e7-9dcc-54a6b416b8bc.png)
 ![ss2](https://cloud.githubusercontent.com/assets/22131343/24575598/c8aececc-16d4-11e7-9dfc-b5a7e12be89e.png)
 ![ss3](https://cloud.githubusercontent.com/assets/22131343/24575599/c8b2818e-16d4-11e7-81cf-b1950caee68b.png)
