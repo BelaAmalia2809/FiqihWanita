@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgroundfix"
+    android:gravity="center|center_vertical"
+    android:orientation="vertical"
+    android:padding="50dp"
+    tools:context="id.sch.smktelkom_mlg.project2.xirpl204051233.fiqihwanita.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="FIQIH WANITA"
+        android:textColor="#007D68"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_shape"
+        android:text="Kewajiban Wanita"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_shape"
+        android:text="Kisah Inspiratif"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_shape"
+        android:text="Larangan Wanita"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:background="@drawable/button_shape"
+        android:text="About Us"
+        android:textColor="#FFF"
+        android:textStyle="bold" />
+
+</LinearLayout>
